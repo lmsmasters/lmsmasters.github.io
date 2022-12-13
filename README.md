@@ -1,3 +1,2 @@
 # lmsmasters.github.io
 
-**sample
